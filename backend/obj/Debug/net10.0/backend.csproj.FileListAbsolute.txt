@@ -1,0 +1,15 @@
+C:\Users\Анастасия\Documents\Lab1_ISRPO_Cheshuina_Antonova\backend\bin\Debug\net10.0\backend.exe
+C:\Users\Анастасия\Documents\Lab1_ISRPO_Cheshuina_Antonova\backend\bin\Debug\net10.0\backend.deps.json
+C:\Users\Анастасия\Documents\Lab1_ISRPO_Cheshuina_Antonova\backend\bin\Debug\net10.0\backend.runtimeconfig.json
+C:\Users\Анастасия\Documents\Lab1_ISRPO_Cheshuina_Antonova\backend\bin\Debug\net10.0\backend.dll
+C:\Users\Анастасия\Documents\Lab1_ISRPO_Cheshuina_Antonova\backend\bin\Debug\net10.0\backend.pdb
+C:\Users\Анастасия\Documents\Lab1_ISRPO_Cheshuina_Antonova\backend\obj\Debug\net10.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анастасия\Documents\Lab1_ISRPO_Cheshuina_Antonova\backend\obj\Debug\net10.0\backend.AssemblyInfoInputs.cache
+C:\Users\Анастасия\Documents\Lab1_ISRPO_Cheshuina_Antonova\backend\obj\Debug\net10.0\backend.AssemblyInfo.cs
+C:\Users\Анастасия\Documents\Lab1_ISRPO_Cheshuina_Antonova\backend\obj\Debug\net10.0\backend.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Documents\Lab1_ISRPO_Cheshuina_Antonova\backend\obj\Debug\net10.0\backend.sourcelink.json
+C:\Users\Анастасия\Documents\Lab1_ISRPO_Cheshuina_Antonova\backend\obj\Debug\net10.0\backend.dll
+C:\Users\Анастасия\Documents\Lab1_ISRPO_Cheshuina_Antonova\backend\obj\Debug\net10.0\refint\backend.dll
+C:\Users\Анастасия\Documents\Lab1_ISRPO_Cheshuina_Antonova\backend\obj\Debug\net10.0\backend.pdb
+C:\Users\Анастасия\Documents\Lab1_ISRPO_Cheshuina_Antonova\backend\obj\Debug\net10.0\backend.genruntimeconfig.cache
+C:\Users\Анастасия\Documents\Lab1_ISRPO_Cheshuina_Antonova\backend\obj\Debug\net10.0\ref\backend.dll
